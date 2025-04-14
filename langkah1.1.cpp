@@ -5,6 +5,7 @@ void printArray(int arr[], int n) {
     for (int k = 0; k < n; k++) {
         cout << arr[k] << " ";
     }
+    cout<<"abc"<<endl;
     cout << endl;
 }
 
